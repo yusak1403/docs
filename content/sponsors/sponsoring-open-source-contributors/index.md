@@ -6,9 +6,16 @@ redirect_from:
   - /github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-developers
   - /github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors
 versions:
-  free-pro-team: '*'
+  fpt: '*'
+  ghec: '*'
+children:
+  - /about-sponsorships-fees-and-taxes
+  - /sponsoring-an-open-source-contributor-through-github
+  - /sponsoring-an-open-source-contributor-through-patreon
+  - /managing-your-sponsorship
+  - /attributing-sponsorships-to-your-organization
+  - /paying-for-github-sponsors-by-invoice
+  - /unlinking-your-patreon-account-from-github
+shortTitle: Sponsor contributors
 ---
 
-{% link_with_intro /sponsoring-an-open-source-contributor %}
-{% link_with_intro /managing-your-sponsorship %}
-{% link_with_intro /attributing-sponsorships-to-your-organization %}
